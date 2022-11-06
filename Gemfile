@@ -47,6 +47,8 @@ group :development do
   gem 'cancancan'
   gem 'draper'
   gem 'pundit'
+
+  gem 'image_processing'
 end
 
 group :test do
