@@ -1,0 +1,17 @@
+{
+  "name": "customer_relation_manager",
+  "private": true,
+  "dependencies": {
+    "@activeadmin/activeadmin": "^2.13.1",
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "4.3.0",
+    "turbolinks": "^5.2.0"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "@webpack-cli/serve": "^1.7.0",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
