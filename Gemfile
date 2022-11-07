@@ -49,6 +49,7 @@ group :development do
   gem 'pundit'
 
   gem 'image_processing'
+  gem 'bootstrap', '~> 5.2', '>= 5.2.2'
 end
 
 group :test do
